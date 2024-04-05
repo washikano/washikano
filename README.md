@@ -2,9 +2,9 @@
 
 I love Cardinal Rack
 
-Here you will find Frankensteined code (and a potential port of Computerscare for Cardinal)
+Here you will find Frankensteined code (and potential ports of modules to Cardinal)
 
-DISCLAIMER: I am not a programmer, I just copy/paste code from various sourcees to see what works, sorry about the mess
+Sorry about the mess (T⌓T) I'm not a programmer
 
 <!---
 washikano/washikano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
